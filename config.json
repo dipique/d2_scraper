@@ -1,0 +1,23 @@
+{
+    "qualities": [
+        "exceptional",
+        "elite"
+    ],
+    "itemTypes": {
+        "amazonweapons": "Amazon Weapons",
+        "armor": "Armor",
+        "belts": "Belts",
+        "boots": "Boots",
+        "bows": "Bows",
+        "daggers": "Daggers",
+        "gloves": "Gloves",
+        "helms": "Helms",
+        "katars": "Assassin Katars",
+        "orbs": "Sorceress Orbs",
+        "polearms": "Polearms",
+        "shields": "Shields",
+        "shrunkenheads": "Shrunken Heads",
+        "spears": "Spears",
+        "wands": "Wands"
+    }
+}
